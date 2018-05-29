@@ -1,4 +1,4 @@
 # fizzbuzz
 
 
-just a small python version of bizzbuzz
+just a small python version of fizzbuzz
